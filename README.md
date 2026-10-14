@@ -1,4 +1,25 @@
-## Hi there 👋
+# Hey, I'm ans4pok! 👋
+
+🎓 Student of Computing and Software Engineering
+
+💻 Learning programming and software development.
+
+### 🛠️ Currently Learning
+- Python
+- SQL
+- Git & GitHub
+
+### 🎯 Goals
+- Build useful applications
+- Improve my coding skills
+- Create projects and grow as a developer
+
+### 📌 Projects
+More projects coming soon!
+
+---
+
+*Learning something new every day.* 🚀
 
 <!--
 **Ans4pok/ans4pok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
